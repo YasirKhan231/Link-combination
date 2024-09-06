@@ -40,7 +40,4 @@ Check out the live version of the project [here](link-combination-git-main-yasir
 
 Update the `platforms` array in `SocialLinks.tsx` to modify social media links and styles.
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
