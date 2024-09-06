@@ -1,7 +1,10 @@
 import Image from "next/image";
 
+
 export default function Home() {
   return (
-   helo from link-comb
+   <>
+   <h1>hello from link - comb </h1>
+   </>
   );
 }
